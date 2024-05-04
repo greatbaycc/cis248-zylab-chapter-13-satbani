@@ -1,8 +1,8 @@
 # CIS248 Module 4 zyLab
 ## Spring 2024
 
-- Name:
-- Date:
+- Name: Satbani Dhariwal
+- Date: 5/4/24
 
 
 ### Chapter 13 zyLab: Math Quiz GUI
